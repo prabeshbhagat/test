@@ -1,0 +1,3 @@
+ChromeDriver=C:\\Users\\Sony\\Desktop\\chromedriver.exe
+
+URL=http://sony-pc:8080/login.do

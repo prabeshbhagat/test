@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35748" started-at="2016-05-16T20:04:43Z" finished-at="2016-05-16T20:05:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35748" started-at="2016-05-16T20:04:43Z" finished-at="2016-05-16T20:05:19Z">
+      <class name="demo.ToolTipCapture">
+        <test-method status="PASS" signature="capture()[pri:0, instance:demo.ToolTipCapture@5ecc357d]" name="capture" duration-ms="35715" started-at="2016-05-17T01:34:43Z" finished-at="2016-05-17T01:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture -->
+      </class> <!-- demo.ToolTipCapture -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
