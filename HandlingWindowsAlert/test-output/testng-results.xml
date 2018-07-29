@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21089" started-at="2016-03-17T19:04:10Z" finished-at="2016-03-17T19:04:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21089" started-at="2016-03-17T19:04:10Z" finished-at="2016-03-17T19:04:31Z">
+      <class name="com.secondarybrowser.CloseSecondaryBrowser">
+        <test-method status="PASS" signature="onlySecondaryBrowsersClose()[pri:0, instance:com.secondarybrowser.CloseSecondaryBrowser@7f416b2d]" name="onlySecondaryBrowsersClose" duration-ms="21045" started-at="2016-03-18T00:34:10Z" finished-at="2016-03-18T00:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlySecondaryBrowsersClose -->
+      </class> <!-- com.secondarybrowser.CloseSecondaryBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

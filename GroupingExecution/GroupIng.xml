@@ -1,0 +1,17 @@
+<Suite name='groupsuite'>
+
+<groups>
+<run>
+<include name='regression'/>
+</run>
+</groups>
+<test>
+
+<classes>
+<class name='pack1.SampleTest'/>
+<class name='pack2.ExampleTest'/>
+
+</classes>
+
+</test>
+</Suite>
